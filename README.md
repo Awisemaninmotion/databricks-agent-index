@@ -44,5 +44,59 @@ This system ensures your Databricks agent:
 - See `docs/maintenance.md` for a guide on handling sync issues and manual updates.
 - See `examples/sample_vault` to see the expected file naming convention.
 
+- ## 📜 Licensing & Usage
+
+This project is **dual-licensed** to support community innovation while protecting commercial interests. The legal terms are defined in the **[LICENSE](LICENSE)** file (PolyForm Noncommercial 1.0.0).
+
+# Please review the summary below to determine which license applies to your use case.
+
+### 1. Non-Commercial Use (Free)
+You may use this software for **free** if your use is strictly for **non-commercial purposes**. This explicitly includes:
+*   **Personal Use**: Individual study, hobby projects, private entertainment, or amateur pursuits.
+*   **Education**: Academic research, classroom teaching, or student projects.
+*   **Non-Profits & Government**: Charitable organizations, public research institutions, government agencies, and public safety organizations (even if funded by grants).
+
+**Requirements:**
+*   ✅ You must give appropriate credit (attribution) to the original author.
+*   ✅ You must include a copy of the license or a link to it.
+*   ❌ **Restricted**: You **cannot** use this for any for-profit business operations, internal corporate workflows, or to generate revenue. If you are using it in a commercial setting, see the details outlined in the next section.
+
+📄 *See the full [LICENSE](LICENSE) file for the complete legal text.*
+
+### 2. Commercial Use (Paid License Required)
+**You must purchase a Commercial License** if you are a **for-profit corporation, organization, or individual** intending to use this software for any business purpose.
+
+This includes, but is not limited to:
+*   **Corporate Integration**: Using the software within a company's internal Databricks environment, data vaults, or AI agent workflows to optimize business operations.
+*   **Commercial Products**: Embedding this code into a software product, SaaS platform, or service that you sell, license, or offer to customers.
+*   **Redistribution**: Copying, modifying, or distributing the software (or derivative works) to third parties for a fee or as part of a commercial offering.
+*   **Cost Savings**: Using the software to reduce internal operational costs, increase efficiency, or generate indirect revenue for a for-profit entity.
+
+> **Why this matters for Databricks Users:**
+> If you are deploying this agent workflow in a **corporate Databricks workspace** (e.g., to manage your company's data, automate internal pipelines, or power a customer-facing feature), this is considered **Commercial Use**. The free version of this license does not cover for-profit business operations.
+
+### 3. How to Get a Commercial License
+If your use case falls under the **Commercial Use** section, we offer a **Commercial License** that grants you:
+*   Full rights to use the software in commercial environments.
+*   The right to integrate the software into your corporate Databricks environment.
+*   The right to redistribute the software as part of your commercial offerings.
+*   Optional support, warranty, and indemnification terms.
+
+📩 **Contact Us for a License:**
+To obtain a commercial license for your organization, please contact us:
+*   **Email**: [adam@onlineworkflow.io]
+*   **Website**: [https://www.onlineworkflow.io]
+*   **Company**: [ONLINEWORKFLOW]
+
+---
+
+## 🤝 Contributing
+We welcome contributions from the community! By submitting a pull request, you agree to release your contribution under the **PolyForm Noncommercial License** and grant the project maintainer the right to include your work in our **Commercial License** offerings. This ensures the project can remain sustainable for all users.
+
+---
+
+## ⚠️ Disclaimer
+This software is provided "as is", without warranty of any kind, express or implied, including but not limited to the warranties of merchantability, fitness for a particular purpose, and noninfringement. In no event shall the authors or copyright holders be liable for any claim, damages, or other liability, whether in an action of contract, tort, or otherwise, arising from, out of, or in connection with the software or the use or other dealings in the software.
+
 ## 📄 License
-MIT License.
+PolyForm Noncommercial 1.0.0
